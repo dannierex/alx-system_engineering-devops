@@ -1,0 +1,2 @@
+i#!/bin/bash
+mv <filename> <source directory> <destination directory>
