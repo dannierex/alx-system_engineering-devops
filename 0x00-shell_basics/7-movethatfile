@@ -1,2 +1,2 @@
-i#!/bin/bash
-mv <filename> <source directory> <destination directory>
+#!/bin/bash
+mv betty /tmp/ /tmp/my_first_directory
