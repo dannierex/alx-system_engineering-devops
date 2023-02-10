@@ -1,2 +1,2 @@
 #!/bin/basih
-cd ..
+0x00 file
