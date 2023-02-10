@@ -1,2 +1,2 @@
 #!/bin/bash
-ln <-sf> <source> <destination>
+ln -s /bin/ls_ls_
